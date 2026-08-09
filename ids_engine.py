@@ -52,9 +52,7 @@ import time
 from dataclasses import dataclass, field
 from typing import Any, Optional
 
-# ---------------------------------------------------------------------------
 # Load sibling packet_capture module
-# ---------------------------------------------------------------------------
 _BASE = pathlib.Path(__file__).resolve().parent
 
 
